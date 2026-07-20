@@ -27,7 +27,7 @@ const projects: Project[] = [
     title: 'Portfolio Website',
     description: 'My personal portfolio built using React, TypeScript, and Tailwind CSS with dark mode support.',
     image: '/images/portfolio.jpeg',
-    github: 'https://github.com/kunalpatil/Portfolio', // Updated from 'link' to 'github'
+    github: 'https://github.com/kunalp965/Portfolio', // Updated from 'link' to 'github'
   },
 ];
 
