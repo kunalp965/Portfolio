@@ -54,7 +54,7 @@ const About: React.FC = () => {
 
         {/* Resume Button */}
         <motion.a
-          href="Kunal Dilip Patil Resume.pdf"
+          href="TnP_Resume.pdf"
           download
           className="inline-block mt-8 px-6 py-3 bg-blue-600 text-white rounded-full shadow-md hover:bg-purple-700 transition-all duration-300"
           whileHover={{ scale: 1.05 }}
