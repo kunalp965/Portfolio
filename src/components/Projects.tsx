@@ -12,22 +12,34 @@ type Project = {
 
 const projects: Project[] = [
   {
-    title: 'Disaster Ready India',
-    description: 'A disaster management platform for real-time reporting, donations, and volunteer coordination.',
-    image: '/images/disaster.jpeg',
-    github: 'https://github.com/kunalpatil/disaster-ready-india', // Updated from 'link' to 'github'
-  },
-  {
-    title: 'Social Media Page Selling Website',
-    description: 'Buy and sell social media pages with verified transactions, user authentication, and chat.',
-    image: '/images/social.jpeg',
-    github: 'https://github.com/kunalpatil/social-media-page-sell', // Updated from 'link' to 'github'
-  },
-  {
     title: 'Portfolio Website',
     description: 'My personal portfolio built using React, TypeScript, and Tailwind CSS with dark mode support.',
     image: '/images/portfolio.jpeg',
     github: 'https://github.com/kunalp965/Portfolio', // Updated from 'link' to 'github'
+  },
+  {
+    title: 'RoomFinder: Student Room Rental System',
+    description: 'A specific platform where students can find rooms to stay near colleges and offices.',
+    image: '/images/room.jpg',
+    github: 'https://github.com/kunalp965/Agromart', // Updated from 'link' to 'github'
+  },
+  {
+    title: 'Disaster-Relief',
+    description: 'A disaster management platform for real-time reporting, donations, and volunteer coordination.',
+    image: '/images/DisasterRelief.png',
+    github: 'https://github.com/kunalp965/DisasterRelief', // Updated from 'link' to 'github'
+  },
+  {
+    title: 'Agromart: Farm Equipment Rental Platform',
+    description: 'A specific platform where farmers can take the ewuipments on rent on daily purpose and also made their equipment on rent.',
+    image: '/images/agromart.png',
+    github: 'https://github.com/kunalp965/Agromart', // Updated from 'link' to 'github'
+  },
+  {
+    title: 'Remainder Website',
+    description: 'Remainder App Website made by me for storing my personal remainders.',
+    image: '/images/remainder.png',
+    github: 'https://github.com/kunalp965/Remainder', // Updated from 'link' to 'github'
   },
 ];
 
