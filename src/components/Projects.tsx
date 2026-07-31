@@ -21,7 +21,7 @@ const projects: Project[] = [
     title: 'RoomFinder: Student Room Rental System',
     description: 'A specific platform where students can find rooms to stay near colleges and offices.',
     image: '/images/room.jpg',
-    github: 'https://github.com/kunalp965/Agromart', // Updated from 'link' to 'github'
+    github: 'https://github.com/kunalp965/RoomFinder', // Updated from 'link' to 'github'
   },
   {
     title: 'Disaster-Relief',
