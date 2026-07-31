@@ -31,7 +31,7 @@ const Hero: React.FC = () => {
           Hi, I'm Kunal Patil 👋
         </h1>
         <p className="text-xl text-gray-700 dark:text-balck-300 max-w-xl">
-          A passionate Computer Engineering student focused on building modern web experiences and solving real-world problems.
+          Computer Engineering student with a strong foundation in Java, Data Structures \& Algorithms, and full-stack web development. Experienced in developing Java-based web applications using Spring MVC, JSP, and MySQL. Enthusiastic about solving coding challenges and building scalable software solutions.
         </p>
       </motion.div>
     </section>
